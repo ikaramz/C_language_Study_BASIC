@@ -1,0 +1,9 @@
+/* 기초 프로그밍 코딩 연습 */                   // 주석문
+#include<stdio.h>                             // 기본 함수명령어를 불러냄 
+void main(void)                               // 본 프로그램의 시작(main)
+{                                             // 중괄호를 열고 Program Coding을 시작합니다. 
+  pirntf("Welcome to C Language");            // printf는 화면에 출력하는 명령어
+  printf("Hello everyone ! ^^");              // 한 줄이 끝날 때 ;를 입력해 주어야 함
+}
+
+ 
