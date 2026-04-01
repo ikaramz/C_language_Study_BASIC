@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() {
+    int a[] = {10, 20, 30, 40, 50};
+    int *p = a;
+    p++;
+    *p = *p + 5;
+    printf("%d, %d", *p, *(p + 2));
+    return 0;
+}
+
+// 정답 25,50
