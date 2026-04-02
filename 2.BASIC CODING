@@ -1,0 +1,12 @@
+/*  BASIC PROGRAM CODING PRACTICE */
+#include<stdio.h>
+
+void main (void) 
+{
+  printf("Welcome to C Language\n");  // 출력하고 줄 바꿈(\\n)
+  printf("Hello everyone ! ^^");
+}
+
+//  결과 값
+//  Welcome to C Language
+//  Hello everyone ! ^^
